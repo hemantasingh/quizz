@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "name": "Hemanta",
+      "email": "hemantasingh@gmail.com",
+      "score": 8,
+      "time": "1:05"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "qn": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "options": [
+        "largest railway station",
+        "Highest railway station",
+        "Longest railway station",
+        "None of the Above"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "qn": "Entomology is the science that studies",
+      "options": [
+        "Behavior of human beings",
+        "Insects",
+        "The origin and history of technical and scientific terms",
+        "The formation of rocks"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "qn": "For which of the following disciplines is Nobel Prize awarded?",
+      "options": [
+        "Physics and Chemistry",
+        "Physiology or Medicine",
+        "Literature, Peace and Economics",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "qn": "Exposure to sunlight helps a person improve his health because",
+      "options": [
+        "the infrared light kills bacteria in the body",
+        "resistance power increases",
+        "the pigment cells in the skin get stimulated and produce a healthy tan",
+        "the ultraviolet rays convert skin oil into Vitamin D"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "qn": "Film and TV institute of India is located at",
+      "options": [
+        "Pune (Maharashtra)",
+        "Rajkot (Gujarat)",
+        "Pimpri (Maharashtra)",
+        "Perambur (Tamilnadu)"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "qn": "\"OS\" computer abbreviation usually means ?",
+      "options": [
+        "Order of Significance",
+        "Open Software",
+        "Operating System",
+        "Optical Sensor"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "qn": "\".MOV\" extension refers usually to what kind of file?",
+      "options": [
+        "Image file",
+        "Animation/movie file",
+        "Audio file",
+        "MS Office document"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "qn": "The purpose of choke in tube light is ?",
+      "options": [
+        "To decrease the current",
+        "To increase the current",
+        "To decrease the voltage momentarily",
+        "To increase the voltage momentarily"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 9,
+      "qn": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+      "options": [
+        "Alan Turing",
+        "Jeff Bezos",
+        "George Boole",
+        "Charles Babbage"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "qn": "\".INI\" extension refers usually to what kind of file?",
+      "options": [
+        "Image file",
+        "System File",
+        "Hypertext related file",
+        "Image Color Matching Profile file"
+      ],
+      "correct": 1
+    }
+  ]
+}
